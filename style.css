@@ -1,0 +1,23 @@
+body {background-color:#F2f2f2;font-family: 'Poppins', sans-serif;}
+.nav {font-size:14px;text-transform:lowercase;}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {background:none;color:#26010F;}
+.nav-pills .nav-link {border-radius: 1rem;}
+.nav-link {color:#26010F;}
+.bg-dark {background-color:#0B0A26 !important;}
+.logo {height:42px;width:42px;}
+.text-end {font-size:13px;}
+.carousel-caption {
+    padding: 10% 0;
+}
+h1,h2,h3,h4,h5, h6 {font-family: 'DM Serif Display', serif;}
+h2 {font-size:3em;}
+h5 {font-size:5em;color:#f2f2f2;}
+.btn-outline-light {margin-top:15px;}
+.myIcon {padding-bottom:20px;}
+.myForm {background:#03A678;}
+textarea::placeholder {
+color:#000;    font-size: 16px;
+padding-top:10px;
+  }
+
+textarea{padding-left:10px;padding-top:10px;}
